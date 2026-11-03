@@ -7,3 +7,5 @@ cmake-build-*/
 
 # VS Code local settings
 .vscode/
+
+/src/main
