@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/physics_tests.dir/tests/PhysicsEngineTests.cpp.o -o physics_tests  libdrone_physics.a
