@@ -1,0 +1,6 @@
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/drone_physics.dir
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/drone_simulator.dir
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/physics_tests.dir
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/test.dir
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/edit_cache.dir
+/Users/sy2002/Developer/drone-simulator/build/CMakeFiles/rebuild_cache.dir

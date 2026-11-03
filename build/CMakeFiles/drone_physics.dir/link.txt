@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrone_physics.a CMakeFiles/drone_physics.dir/src/PhysicsEngine.cpp.o
+/usr/bin/ranlib libdrone_physics.a
